@@ -459,6 +459,7 @@ URLが非常に長いため、サイトをブックマークしておくこと�
     
   
 </table>
+
 <b>In Duty</b>
 <table>
     <tr>
@@ -691,8 +692,12 @@ URLが非常に長いため、サイトをブックマークしておくこと�
         <td>Abbreviation</td>
     </tr>
 </table>
+
+
 <b>Ultimate Specific</b>
   <br>UCOB
+
+  
 <table>
     <tr>
         <td>
