@@ -698,6 +698,13 @@ URLが非常に長いため、サイトをブックマークしておくこと�
         <td>The debuff</td>
     </tr>
 </table>
+<tr>
+        <td>詠唱</td>
+        <td>Eishou</td>
+        <td>Boss cast</td>
+        <td>For example, if the boss cast determines if it's a spread or stack.</td>
+    </tr>
+</table>
 
 
 <b>Ultimate Specific</b>
