@@ -691,6 +691,12 @@ URLが非常に長いため、サイトをブックマークしておくこと�
         <td>Tank buster</td>
         <td>Abbreviation</td>
     </tr>
+	<tr>
+        <td>低下</td>
+        <td>Teika</td>
+        <td>Damage Down</td>
+        <td>The debuff</td>
+    </tr>
 </table>
 
 
