@@ -89,7 +89,7 @@
         <hr>
         <h1>FFXIV EN JP Glossary</h1>
         <p>This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation. The goal is for people to fully understand Party Finder descriptions and understand the main gist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).</p>
-        <p>IF YOU WANT A TERM ADDED, DM ME ON DISCORD (nerilingonberry) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM. It doesn't matter if you don't have the translation, I'll provide it.</p>
+        <p>IF YOU WANT A TERM ADDED, DM ME ON DISCORD (nerilingonberry), CREATE AN ISSUE ON GITHUB OR MAKE A PULL REQUEST. PROVIDE AN ENGLISH AND/OR JAPANESE TERM. It doesn't matter if you don't have the translation, I'll provide it.</p>
         <p>Bookmark the page, cause the URL is bad and I should feel bad.</p>
         <p>Game8 (JP) Strats can be found at <a href="https://game8.jp/ff14" target="_blank">Game8</a></p>
         <hr>
