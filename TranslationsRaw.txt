@@ -64,6 +64,7 @@
 制限解除 | Seigenkaijo | Unsynced | | Party Finder
 ボス基準 | Bosukijunn | Boss Relative | | Party Finder
 マップ基準 | Mappukijunn | Map Relative (True North) | | Party Finder
+北基準 | Kitakijunn | North Relative (True North) | | Party Finder
 式 | Shiki | Strat | As in "Strategy | Party Finder
 
 回目 | Kaime | Counter for events | Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.| In Duty
