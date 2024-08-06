@@ -35,7 +35,7 @@
             white-space: pre-wrap; /* Preserve line breaks */
         }
         .highlight {
-            background-color: yellow;
+            background-color: blue;
             cursor: pointer;
             border-radius: 3px;
         }
@@ -66,9 +66,6 @@
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
         }
         a {
             color: #007bff;
