@@ -146,8 +146,8 @@
             const target = e.target;
 
             if (target.classList.contains('highlight')) {
-                const mouseX = e.clientX;
-                const mouseY = e.clientY;
+                const mouseX = e.pageX;
+                const mouseY = e.pageY;
                 tooltip.style.left = `${mouseX + 15}px`;
                 tooltip.style.top = `${mouseY + 15}px`;
 
