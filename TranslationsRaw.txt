@@ -24,11 +24,14 @@
 見て | Mite | Look at | | General Conversation
 見る | Miru | Look at | | General Conversation
 自分 | Jibunn | Self | 自分のPair = Your own pair | General Conversation
+みたい | Mitai | Try | | General Conversation
+分 | Fun/Bun/Pun | "Minute(s)", or "Part" | | General Conversation
 
 募集 | Boshuu | Recruit | 募集中 for "Recruiting"| Party Finder
 断章 or 欠片 | Danshou or Kakera | Book run | 欠片 is very rarely used, but just in case, I listed it.| Party Finder
 フリロ | Furiro | Free roll (FFA) loot system | | Party Finder
 取り抜け | Torinuke | Leave after you win a piece of loot. | Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.| Party Finder
+取りぬけ | Torinuke | Leave after you win a piece of loot. | Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.| Party Finder
 全パス | Zen pasu | Passing on everything | Usually used when someone is buying loot, implying you'll pass on everything. Can also mean that the leader passes everything except for the 1 piece that they need.| Party Finder
 層 | Sou | Floor | Japanese players count the floors from 1-4, always. If P9-P12 is the latest tier, 9 would be 1, and 12 would be 4.| Party Finder
 初見 | Shoken | Fresh | First time attempting a duty.| Party Finder
@@ -37,7 +40,7 @@
 練習 | Renshuu | Practice | | Party Finder
 クリア目的 | Kuria mokuteki | Aim to clear | Can be abbreviated as クリ目.| Party Finder
 未 | Mi | Not yet (done) | Usually combined with 消化 or 予習.| Party Finder
-済 | Sumi | Already (done) | Usually combined with 消化 or 予習.| Party Finder
+済 | Sumi | Already (done)/Cleared | Usually combined with 消化 or 予習.| Party Finder
 予習 | Yoshuu | Preparation | Usually combined with 未 or 済.| Party Finder
 消化 | Shouka | Weekly reclear | | Party Finder
 解散 | Kaisan | Disband group | Usually written like ５滅解散. Meaning disband after 5 wipes.| Party Finder
@@ -66,6 +69,13 @@
 マップ基準 | Mappukijunn | Map Relative (True North) | | Party Finder
 北基準 | Kitakijunn | North Relative (True North) | | Party Finder
 式 | Shiki | Strat | As in "Strategy | Party Finder
+終わり | Owari | End | | Party Finder
+クリア | Kuria | Clear | | Party Finder
+手伝い | Tetsudai | Help | | 
+歓迎 | Kangei | Welcome | | 
+目指 | Meza | Aim/Goal | | 
+初 | Hatsu | First | | 
+
 
 回目 | Kaime | Counter for events | Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.| In Duty
 タンク強攻撃 | Tanku kyoukougeki | Tank Buster | | In Duty
@@ -210,6 +220,13 @@
 茶 | Cha | Brown | Also tea, the drink, but we probably won't use that in FF Party Finder | Colors
 白 | Shiro | White |  | Colors
 黒 | Kuro | Black |  | Colors
+
+ハムカツ | Hamukatsu | Hamkatsu | JP Strat maker on YouTube | People
+ぬけまる | Nukemaru | Nukemaru | JP Strat maker on YouTube | People
+あきと | Akito | Akito | JP Strat maker on YouTube | People
+くうや | Kuuya | Kuuya | JP Strat website | People
+もちべ | Mochibe | Mochibe | JP Strat maker on Twitter(?) | People
+
 
 基本 | Kihon | Base/Basic/Relative |  | Uncategorized (for now)
 ボス | Bosu | Boss |  | Uncategorized (for now)
