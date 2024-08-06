@@ -141,4 +141,16 @@
 タゲサ | Tagesa | Target circle | | Navigation
 位置 | Ichi | Position | | Navigation
 時計 | Tokei | CW | | Navigation
-反時計 | Hantokei | CCW | | Navigation
+反 | Han | Opposite | Usually to indicate CCW as 反時計 | Navigation
+から | Kara | From |  | Navigation
+動く | Ugoku | Move |  | Navigation
+基本 | Kihon | Basic |  | Uncategorized (for now)
+ボス | Bosu | Boss |  | Uncategorized (for now)
+扇範囲 | Ougihani | Cone aoe |  | Uncategorized (for now)
+ペア | Pea | Pair |  | Uncategorized (for now)
+タンク | Tanku | Tank |  | Uncategorized (for now)
+十字 | Juuji | 十 formation |  | Uncategorized (for now)
+X字 | Xji | X formation |  | Uncategorized (for now)
+固定 | Kotei | Fixed |  | Uncategorized (for now)
+処理 | Shori | Solution |  | Uncategorized (for now)
+全て | Subete | Everything |  | Uncategorized (for now)
