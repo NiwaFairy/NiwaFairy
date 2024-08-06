@@ -26,6 +26,7 @@
 自分 | Jibunn | Self | 自分のPair = Your own pair | General Conversation
 みたい | Mitai | Try | | General Conversation
 分 | Fun/Bun/Pun | "Minute(s)", or "Part" | | General Conversation
+最新 | Saishinn | Newest | | General Conversation
 
 募集 | Boshuu | Recruit | 募集中 for "Recruiting"| Party Finder
 断章 or 欠片 | Danshou or Kakera | Book run | 欠片 is very rarely used, but just in case, I listed it.| Party Finder
