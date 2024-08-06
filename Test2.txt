@@ -1,0 +1,128 @@
+よろしくお願いします | Yoroshiku onegaishimasu | Nice to meet you. | This one does not have a good English equivalent. Basically the primary place you'll encounter it is when you join a group, in which case it means "Nice to meet you."| General Conversation
+おはようございます | Ohayou gozaimasu | Good morning | Similar to English, this one is used regardless of whether it's a good morning, or not.| General Conversation
+こんにちは | Konnichiha | Hi | | General Conversation
+こんばんは | Konbanha | Good evening | | General Conversation
+お疲れ様でした | Otsukaresamadeshita | Thank you for your hard work. | Very common phrase used to show appreciation for the effort someone put in. Expect to see it at the end of every duty. Auto-translates to "Good game!".| General Conversation
+抜けます | Nukemasu | I'm leaving | | General Conversation
+解散します | Kaisan shimasu | Disbanding party | | General Conversation
+待ってください | Matte kudasai | Please wait | | General Conversation
+離席 | Riseki | AFK/BRB (literally "leaving my seat") | Usually a time is specified like: ５分離席.| General Conversation
+トイレ | Toire | Bathroom | | General Conversation
+いてら | Itera | What people say to see someone off. Example: Someone goes to the bathroom, people say this. | Very abbreviated form of いってらっしゃい.| General Conversation
+おか | Oka | Welcome back. | Abbreviated version of おかえりなさい.| General Conversation
+戻りました | Modorimashita | I'm back (usually from being AFK) | | General Conversation
+すみません | Sumimasen | Excuse me | | General Conversation
+失礼します | Shitsurei shimasu | Excuse me | | General Conversation
+ごめんなさい | Gomennasai | I'm sorry | | General Conversation
+どま | Doma | Don't worry about it. | Used after someone makes a mistake. It's an abbreviated form of "Don't mind".| General Conversation
+お願いします | Onegaishimasu | Please | Can mean various things. Primarily used to add courtesy.| General Conversation
+さん | San | Mr./Mrs. | Common honorific.| General Conversation
+了解 | Ryoukai | Roger that | Affirmative response| General Conversation
+間違いました | Machigaimashita | I mistook (something) | Example usage: 位置間違いました (I mistook my position/I was in the wrong place)| General Conversation
+鯖 | Saba | Server | This only means server if it's written in a game. Otherwise, it's a type of fish. Mackerel, to be exact.| General Conversation
+メンテ | Mente | Maintenance | Ironically, added this during 7.0 maintenance| General Conversation
+募集 | Boshuu | Recruit | 募集中 for "Recruiting"| Party Finder
+断章 or 欠片 | Danshou or Kakera | Book run | 欠片 is very rarely used, but just in case, I listed it.| Party Finder
+フリロ | Furiro | Free roll (FFA) loot system | | Party Finder
+取り抜け | Torinuke | Leave after you win a piece of loot. | Usually L>R (Left to Right) loot system but they might specify otherwise in the PF description.| Party Finder
+全パス | Zen pasu | Passing on everything | Usually used when someone is buying loot, implying you'll pass on everything. Can also mean that the leader passes everything except for the 1 piece that they need.| Party Finder
+層 | Sou | Floor | Japanese players count the floors from 1-4, always. If P9-P12 is the latest tier, 9 would be 1, and 12 would be 4.| Party Finder
+初見 | Shoken | Fresh | First time attempting a duty.| Party Finder
+未予習 | Miyoshuu | Blind | As in you haven't watched a guide in preparation.| Party Finder
+安定 | Antei | Clean up (a mechanic) | | Party Finder
+練習 | Renshuu | Practice | | Party Finder
+クリア目的 | Kuria mokuteki | Aim to clear | Can be abbreviated as クリ目.| Party Finder
+未 | Mi | Not yet (done) | Usually combined with 消化 or 予習.| Party Finder
+済 | Sumi | Already (done) | Usually combined with 消化 or 予習.| Party Finder
+予習 | Yoshuu | Preparation | Usually combined with 未 or 済.| Party Finder
+消化 | Shouka | Weekly reclear | | Party Finder
+解散 | Kaisan | Disband group | Usually written like ５滅解散. Meaning disband after 5 wipes.| Party Finder
+飯 | Mesh | Food | Usually indicates the time they're planning to spend. Example: １飯 is 30/40 minutes.| Party Finder
+武器 | Buki | Weapon | | Party Finder
+箱 | Hako | Coffer/Chest | | Party Finder
+胴 | Dou | Chest | | Party Finder
+他 | Hoka | Other | | Party Finder
+〆 | Shime | Indicates a taken role | | Party Finder
+詰め | Tsume | Parse | | Party Finder
+マウント | Maunto | Mount | | Party Finder
+周 | Shuu | Number of times they'll clear | Example: 3周 3 Clears.| Party Finder
+半 | Han | Half | Combined with the next 2 to produce 前半 "First half" and 後半 "Second half". Refers to the 2 phases of the last floor.| Party Finder
+前 | Mae/Zen | Former, or "In front" | | Party Finder
+後 | Ato/Go | Latter, or "Behind"| | Party Finder
+主 | Nushi | Party Leader | | Party Finder
+クロ | Kuro | Wondrous Tails | | Party Finder
+サブジョブ | Sabujobu | Alt job | | Party Finder
+整列 | Seiretsu | Lineup | Usually referring to a conga-line solution to a mechanic. Example: Tenstrike (UCOB), Pangenesis (P12S).| Party Finder
+攻略 | Kouryaku | Strategy | | Party Finder
+傭兵 | Youhei | Mercenary | | Party Finder
+報酬 | Houshuu | Reward | | Party Finder
+優先 | Yuusen | Priority | | Party Finder
+制限解除 | Seigenkaijo | Unsynced | | Party Finder
+ボス基準 | Bosukijunn | Boss Relative | | Party Finder
+マップ基準 | Mappukijunn | Map Relative (True North) | | Party Finder
+回目 | Kaime | Counter for events | Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.| In Duty
+タンク強攻撃 | Tanku kyoukougeki | Tank Buster | | In Duty
+タン強 | Tannkyou | Tank buster | Abbreviation| In Duty
+スイッチ | Suicchi | Tank swap | | In Duty
+シャーク | Sha-ku | Shirk | | In Duty
+挑発 | Chouhatsu | Provoke | | In Duty
+牽制 | Kensei | Feint | | In Duty
+アドル | Adoru | Addle | | In Duty
+リプライザル | Ripuraizaru | Reprisal | Commonly abbreviated as: リプ| In Duty
+インタージェクト | Inta-jekuto | Interject | Tank interrupt| In Duty
+ヘッドグレイズ | Heddogureizu | Head Graze | Physical Ranged interrupt| In Duty
+内丹 | Naitan | Second Wind | | In Duty
+アームズレングス | A-muzurengusu | Arm's Length | | In Duty
+堅実魔 | Kenjitsuma | Surecast | | In Duty
+軽減 | Keigen | Mitigation | | In Duty
+頭割り | Atamawari | Stack | | In Duty
+散開 | Sankai | Spread | | In Duty
+無敵 | Muteki | Invulnerability | 
+ブラナイ | Buranai | The Blackest Night (TBN) | | In Duty
+インビンシブル | Inbinshiburu | Hallowed Ground | | In Duty
+アサイラム | Asairamu | Asylum | | In Duty
+陣 | Jin | Sacred Soil | | In Duty
+救出 | Kyuushutsu | Rescue | | In Duty
+扇型AOE | Ougigata | Conal AoE | | In Duty
+線 | Sen | Tether | | In Duty
+突進技 | Tosshin waza | Gapcloser | | In Duty
+飛びのき | Tobinoki | Backflip (BRD/DRG) | | In Duty
+殴れるぎりぎりの遠さで殴ること | Nagureru girigiri no toosa de naguru koto | Max melee | | In Duty
+誘導 | Yuudou | Bait | | In Duty
+沼 | Numa | Ground AoE | Used for any bad stuff on the ground.| In Duty
+希望 | Kibou | Wish | Commonly used to say "I wish to be MT." MT希望| In Duty
+ギミック | Gimikku | Mechanic | As in "Mechanic of a fight"| In Duty
+進行 | Shinkou | Pull/Countdown | | In Duty
+誤爆 | Gobaku | "To die to friendly fire" OR "Wrote in the wrong chat" | Rare to see, good to know. Equivalent of "wc" in the latter example.| In Duty
+吹っ飛ばす | Futtobasu | Knockback | | In Duty
+安置 | Anchi | Safe spot | | In Duty
+低下 | Teika | Damage Down | The debuff| In Duty
+詠唱 | Eishou | Boss cast | For example, if the boss cast determines if it's a spread or stack.| In Duty
+カータライズ | Ka-taraizu | Dive Bomb | | UCOB
+ツイスター | Tsuisuta- | Twister | | UCOB
+拘束具 | Kousokugu | Neurolink | | UCOB
+魔力錬成 | Maryokurensei | Orb | | UCOB
+プラメット | Purametto | Plummet | | UCOB
+進軍 | Shingun | Quickmarch Trio | | UCOB
+黒煙 | Kokuen | Blackfire Trio | | UCOB
+厄災 | Yakusai | Fellruin Trio | | UCOB
+天地 | Tenchi | Heavensfall Trio | | UCOB
+連撃 | Rengeki | Tenstrike Trio | | UCOB
+群竜 | Gunryuu | Grand Octet | | UCOB
+ジェイル | Jeiru | Gaol | | UWU
+エラプション | Erapushon | Eruption | | UWU
+楔 | Kusabi | Nail | | UWU
+覚醒 | Kakusei | Awaken | | UWU
+迫撃 | Hakugeki | Predation | | UWU
+爆撃 | Bakugeki | Annihilation | | UWU
+乱撃 | Rangeki | Suppression | | UWU
+誘導レーザー | Yuudou re-za- | Homing Laser | | UWU
+ヤークト | Ya-kuto | Dolls | | TEA
+サイコロ | Saikoro | Limit Cut | This applies to all Limit Cut mechanics. Saikoro means dice in Japanese, so it's in reference to the dice-like way the numbers are presented.| TEA
+二体フェーズ | Nitai Fe-zu | BJCC Phase | | TEA
+水頭割り | Mizu atamawari | Water Stack | | TEA
+カウント | Kaunto | Enumeration | This applies to most Enumeration mechanics.| TEA
+時間停止 | Jikanteishi | Temporal Stasis | | TEA
+時空先行 | Jikuusenkou | Inception | | TEA
+断絶 | Danzetsu | Wormhole | | TEA
+パレキ | Pareki | Perfect Alex | | TEA
