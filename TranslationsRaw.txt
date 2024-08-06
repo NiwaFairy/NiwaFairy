@@ -144,7 +144,7 @@
 反 | Han | Opposite | Usually to indicate CCW as 反時計 | Navigation
 から | Kara | From |  | Navigation
 動く | Ugoku | Move |  | Navigation
-基本 | Kihon | Basic |  | Uncategorized (for now)
+基本 | Kihon | Base/Basic/Relative |  | Uncategorized (for now)
 ボス | Bosu | Boss |  | Uncategorized (for now)
 扇範囲 | Ougihani | Cone aoe |  | Uncategorized (for now)
 ペア | Pea | Pair |  | Uncategorized (for now)
@@ -154,3 +154,8 @@ X字 | Xji | X formation |  | Uncategorized (for now)
 固定 | Kotei | Fixed |  | Uncategorized (for now)
 処理 | Shori | Solution |  | Uncategorized (for now)
 全て | Subete | Everything |  | Uncategorized (for now)
+衝撃波 | Shougekiha | Shockwave | | Uncategorized (for now)
+扇 | Ougi | Cone | | Uncategorized (for now)
+クアドラプルネイル | Kuadoraburuneiru | Quadruple Crossing | M1S Mechanic | Uncategorized (for now)
+スプレッドネイル | Supureddoneiru | Splintering Nails | M1S Mechanic | Uncategorized (for now)
+レイニングキャッツ | Reininngukyattsu | Raining Cats | M1S Mechanic | Uncategorized (for now)
