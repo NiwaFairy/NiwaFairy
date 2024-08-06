@@ -134,4 +134,11 @@
 西 | Nishi | West |  | Navigation
 南 | Minami | South |  | Navigation
 東 | Higashi | East |  | Navigation
- |  |  |  | 
+先 | Saki | Front/Before |  | Navigation
+側 | Soba/Gawa/Soku | Side | | Navigation
+内 | Uchi | Inside | | Navigation
+外 | Soto | Outside | | Navigation
+タゲサ | Tagesa | Target circle | | Navigation
+位置 | Ichi | Position | | Navigation
+時計 | Tokei | CW | | Navigation
+反時計 | Hantokei | CCW | | Navigation
