@@ -89,7 +89,7 @@
         <hr>
         <h1>FFXIV EN JP Glossary</h1>
         <p>This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation. The goal is for people to fully understand Party Finder descriptions and understand the main gist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).</p>
-        <p>IF YOU WANT A TERM ADDED, DM ME ON DISCORD (nerilingonberry), CREATE AN ISSUE ON GITHUB OR MAKE A PULL REQUEST. PROVIDE AN ENGLISH AND/OR JAPANESE TERM. It doesn't matter if you don't have the translation, I'll provide it.</p>
+        <p>IF YOU WANT A TERM ADDED, DM ME ON DISCORD (nerilingonberry) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM. It doesn't matter if you don't have the translation, I'll provide it.</p>
         <p>Bookmark the page, cause the URL is bad and I should feel bad.</p>
         <p>Game8 (JP) Strats can be found at <a href="https://game8.jp/ff14" target="_blank">Game8</a></p>
         <hr>
@@ -102,159 +102,151 @@
             <!-- Tables will be inserted here -->
         </div>
     </div>
+
     <script>
-    const translations = {}; // Placeholder for translations
+        const translations = {}; // Placeholder for translations
 
-    // Fetch translations from the raw text file
-    fetch('https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt')
-        .then(response => response.text())
-        .then(text => {
-            // Parse the text file content
-            const lines = text.split('\n');
-            lines.forEach(line => {
-                const [japanese, romaji, translation, comment, tag] = line.split('|').map(s => s.trim());
-                if (japanese && translation) {
-                    translations[japanese] = {
-                        romaji: romaji || '',
-                        translation: translation || '',
-                        comment: comment || '',
-                        tag: tag || ''
-                    };
-                }
+        // Fetch translations from the raw text file
+        fetch('https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt')
+            .then(response => response.text())
+            .then(text => {
+                // Parse the text file content
+                const lines = text.split('\n');
+                lines.forEach(line => {
+                    const [japanese, romaji, translation, comment, tag] = line.split('|').map(s => s.trim());
+                    if (japanese && translation) {
+                        translations[japanese] = {
+                            romaji: romaji || '',
+                            translation: translation || '',
+                            comment: comment || '',
+                            tag: tag || ''
+                        };
+                    }
+                });
+                console.log('Translations:', translations); // Debug log
+            })
+            .catch(error => console.error('Error fetching translations:', error));
+
+        document.getElementById('text-box').addEventListener('input', function() {
+            const inputText = this.value;
+            const outputDiv = document.getElementById('output');
+            outputDiv.innerHTML = '';
+
+            let processedText = inputText;
+            Object.keys(translations).forEach(key => {
+                const regex = new RegExp(`(${key})`, 'g');
+                processedText = processedText.replace(regex, '<span class="highlight">$1</span>');
             });
-            console.log('Translations:', translations); // Debug log
-        })
-        .catch(error => console.error('Error fetching translations:', error));
 
-    document.getElementById('text-box').addEventListener('input', function() {
-        const inputText = this.value;
-        const outputDiv = document.getElementById('output');
-        outputDiv.innerHTML = '';
-
-        let processedText = inputText;
-        Object.keys(translations).forEach(key => {
-            const regex = new RegExp(`(${key})`, 'g');
-            processedText = processedText.replace(regex, '<span class="highlight">$1</span>');
+            outputDiv.innerHTML = processedText;
         });
 
-        outputDiv.innerHTML = processedText;
-    });
+        document.getElementById('output').addEventListener('mousemove', function(e) {
+            const tooltip = document.getElementById('tooltip');
+            const target = e.target;
 
-    document.getElementById('output').addEventListener('mousemove', function(e) {
-        const tooltip = document.getElementById('tooltip');
-        const target = e.target;
+            if (target.classList.contains('highlight')) {
+                const word = target.textContent.trim();
+                const entry = translations[word];
+                if (entry) {
+                    let tooltipText = '';
+                    if (entry.romaji) tooltipText += `<strong>Romaji:</strong> ${entry.romaji}<br>`;
+                    if (entry.translation) tooltipText += `<strong>Translation:</strong> ${entry.translation}<br>`;
+                    if (entry.comment) tooltipText += `<strong>Comment:</strong> ${entry.comment}<br>`;
+                    if (entry.tag) tooltipText += `<strong>Tag:</strong> ${entry.tag}`;
 
-        if (target.classList.contains('highlight')) {
-            const rect = target.getBoundingClientRect();
-            const mouseX = e.clientX;
-            const mouseY = e.clientY;
-            const tooltipX = mouseX + 15;
-            const tooltipY = mouseY + 15;
-
-            tooltip.style.left = `${tooltipX}px`;
-            tooltip.style.top = `${tooltipY}px`;
-
-            const word = target.textContent.trim();
-            const entry = translations[word];
-            if (entry) {
-                let tooltipText = '';
-                if (entry.romaji) tooltipText += `<strong>Romaji:</strong> ${entry.romaji}<br>`;
-                if (entry.translation) tooltipText += `<strong>Translation:</strong> ${entry.translation}<br>`;
-                if (entry.comment) tooltipText += `<strong>Comment:</strong> ${entry.comment}<br>`;
-                if (entry.tag) tooltipText += `<strong>Tag:</strong> ${entry.tag}`;
-
-                tooltip.innerHTML = tooltipText;
-                tooltip.style.display = 'block';
+                    tooltip.innerHTML = tooltipText;
+                    tooltip.style.display = 'block';
+                } else {
+                    tooltip.style.display = 'none';
+                }
             } else {
                 tooltip.style.display = 'none';
             }
-        } else {
+        });
+
+        document.getElementById('output').addEventListener('mouseleave', function() {
+            const tooltip = document.getElementById('tooltip');
             tooltip.style.display = 'none';
-        }
-    });
+        });
 
-    document.getElementById('output').addEventListener('mouseleave', function() {
-        const tooltip = document.getElementById('tooltip');
-        tooltip.style.display = 'none';
-    });
+        document.addEventListener('DOMContentLoaded', () => {
+            const url = 'https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt';
 
-    document.addEventListener('DOMContentLoaded', () => {
-        const url = 'https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt';
-
-        fetch(url)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.text();
-            })
-            .then(data => {
-                console.log("Data fetched successfully");
-                console.log(data);  // Log data to check its content
-
-                const rows = data.split('\n');
-                const tablesContainer = document.querySelector('#tables');
-                tablesContainer.innerHTML = '';  // Clear the loading message
-
-                const tableData = {};
-                rows.forEach(row => {
-                    if (row.trim() === '') return; 
-                    const [japanese, romaji, english, description, tag] = row.split('|').map(s => s.trim());
-                    if (tag) {
-                        if (!tableData[tag]) {
-                            tableData[tag] = [];
-                        }
-                        tableData[tag].push({ japanese, romaji, english, description });
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
                     }
-                });
+                    return response.text();
+                })
+                .then(data => {
+                    console.log("Data fetched successfully");
+                    console.log(data);  // Log data to check its content
 
-                for (const [tag, entries] of Object.entries(tableData)) {
-                    const section = document.createElement('div');
-                    section.classList.add('section');
-                    section.innerHTML = `<h2>${tag}</h2>`;
+                    const rows = data.split('\n');
+                    const tablesContainer = document.querySelector('#tables');
+                    tablesContainer.innerHTML = '';  // Clear the loading message
 
-                    const table = document.createElement('table');
-                    const thead = document.createElement('thead');
-                    const tbody = document.createElement('tbody');
-                    table.appendChild(thead);
-                    table.appendChild(tbody);
-
-                    thead.innerHTML = `
-                        <tr>
-                            <th>Japanese</th>
-                            <th>Romaji</th>
-                            <th>English</th>
-                            <th>Description</th>
-                        </tr>
-                    `;
-
-                    entries.forEach(entry => {
-                        const tr = document.createElement('tr');
-                        tr.innerHTML = `
-                            <td>${entry.japanese}</td>
-                            <td>${entry.romaji}</td>
-                            <td>${entry.english}</td>
-                            <td>${entry.description}</td>
-                        `;
-                        tbody.appendChild(tr);
+                    const tableData = {};
+                    rows.forEach(row => {
+                        if (row.trim() === '') return; 
+                        const [japanese, romaji, english, description, tag] = row.split('|').map(s => s.trim());
+                        if (tag) {
+                            if (!tableData[tag]) {
+                                tableData[tag] = [];
+                            }
+                            tableData[tag].push({ japanese, romaji, english, description });
+                        }
                     });
 
-                    if (tbody.children.length === 0) {
-                        const tr = document.createElement('tr');
-                        tr.innerHTML = '<td colspan="4">No data available</td>';
-                        tbody.appendChild(tr);
-                    }
+                    for (const [tag, entries] of Object.entries(tableData)) {
+                        const section = document.createElement('div');
+                        section.classList.add('section');
+                        section.innerHTML = `<h2>${tag}</h2>`;
 
-                    section.appendChild(table);
-                    tablesContainer.appendChild(section);
-                }
-            })
-            .catch(error => {
-                console.error('Error fetching the file:', error);
-                const tablesContainer = document.querySelector('#tables');
-                tablesContainer.innerHTML = '<p>Error loading data.</p>';
-            });
-    });
+                        const table = document.createElement('table');
+                        const thead = document.createElement('thead');
+                        const tbody = document.createElement('tbody');
+                        table.appendChild(thead);
+                        table.appendChild(tbody);
+
+                        thead.innerHTML = `
+                            <tr>
+                                <th>Japanese</th>
+                                <th>Romaji</th>
+                                <th>English</th>
+                                <th>Description</th>
+                            </tr>
+                        `;
+
+                        entries.forEach(entry => {
+                            const tr = document.createElement('tr');
+                            tr.innerHTML = `
+                                <td>${entry.japanese}</td>
+                                <td>${entry.romaji}</td>
+                                <td>${entry.english}</td>
+                                <td>${entry.description}</td>
+                            `;
+                            tbody.appendChild(tr);
+                        });
+
+                        if (tbody.children.length === 0) {
+                            const tr = document.createElement('tr');
+                            tr.innerHTML = '<td colspan="4">No data available</td>';
+                            tbody.appendChild(tr);
+                        }
+
+                        section.appendChild(table);
+                        tablesContainer.appendChild(section);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching the file:', error);
+                    const tablesContainer = document.querySelector('#tables');
+                    tablesContainer.innerHTML = '<p>Error loading data.</p>';
+                });
+        });
     </script>
 </body>
 </html>
