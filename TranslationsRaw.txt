@@ -21,6 +21,8 @@
 間違いました | Machigaimashita | I mistook (something) | Example usage: 位置間違いました (I mistook my position/I was in the wrong place)| General Conversation
 鯖 | Saba | Server | This only means server if it's written in a game. Otherwise, it's a type of fish. Mackerel, to be exact.| General Conversation
 メンテ | Mente | Maintenance | Ironically, added this during 7.0 maintenance| General Conversation
+見て | Mite | Look at | | General Conversation
+見る | Miru | Look at | | General Conversation
 募集 | Boshuu | Recruit | 募集中 for "Recruiting"| Party Finder
 断章 or 欠片 | Danshou or Kakera | Book run | 欠片 is very rarely used, but just in case, I listed it.| Party Finder
 フリロ | Furiro | Free roll (FFA) loot system | | Party Finder
@@ -98,6 +100,23 @@
 安置 | Anchi | Safe spot | | In Duty
 低下 | Teika | Damage Down | The debuff| In Duty
 詠唱 | Eishou | Boss cast | For example, if the boss cast determines if it's a spread or stack.| In Duty
+近接 | Kinsetsu | Melee |  |  In Duty
+遠隔 | Ennkaku | Ranged |  |  In Duty
+組 | Kumi/Gumi | Group |  |  In Duty
+短 | Tan | Short |  |  In Duty
+長 | Chou | Long |  |  In Duty
+塔 | Tou | Tower |  |  In Duty
+単体 | Tanntai | Sole/Alone/Single |  |  In Duty
+ボム | Bomu | Bomb |  |  In Duty
+回り | Mawari | Spin/Rotate |  |  In Duty
+ノックバック | Nokkubakku | Knockback | | In Duty
+受け | Uke | Receive | | In Duty
+デバフ | Debafu | Debuff |  | In Duty 
+捨て | Sute | Drop |  | In Duty 
+8方向 | Hachihoukou | Protean |  | In Duty 
+毒 | Doku | Poison |  | In Duty 
+早 | Sou | Fast | | In Duty 
+遅 | Chi | Slow | | In Duty 
 カータライズ | Ka-taraizu | Dive Bomb | | UCOB
 ツイスター | Tsuisuta- | Twister | | UCOB
 拘束具 | Kousokugu | Neurolink | | UCOB
@@ -144,6 +163,14 @@
 反 | Han | Opposite | Usually to indicate CCW as 反時計 | Navigation
 から | Kara | From |  | Navigation
 動く | Ugoku | Move |  | Navigation
+中心 | Chuushin | Middle |  | Navigation
+待機 | Taiki | Wait |  | Navigation
+基準 | Kijunn | Relative/Based on |  | Navigation
+踏み | Fumi | Step in |  | Navigation
+中央 | Chuuou | Middle |  | Navigation
+集合 | Shuugou | Stack |  | Navigation
+
+
 基本 | Kihon | Base/Basic/Relative |  | Uncategorized (for now)
 ボス | Bosu | Boss |  | Uncategorized (for now)
 扇範囲 | Ougihani | Cone aoe |  | Uncategorized (for now)
