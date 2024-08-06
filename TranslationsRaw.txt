@@ -45,10 +45,10 @@
 〆 | Shime | Indicates a taken role | | Party Finder
 詰め | Tsume | Parse | | Party Finder
 マウント | Maunto | Mount | | Party Finder
-周 | Shuu | Number of times they'll clear | Example: 3周 3 Clears.| Party Finder
-半 | Han | Half | Combined with the next 2 to produce 前半 "First half" and 後半 "Second half". Refers to the 2 phases of the last floor.| Party Finder
-前 | Mae/Zen | Former, or "In front" | | Party Finder
-後 | Ato/Go | Latter, or "Behind"| | Party Finder
+周 | Shuu | "Circumference", or "Number of times they'll clear" | Example: 3周 3 Clears.| Party Finder
+半 | Han | Half | Combined with the n:xt 2 to produce 前半 "First half" and 後半 "Second half". Refers to the 2 phases of the last floor.| Party Finder
+前 | Mae/Zen | "Former", or "In front" | | Party Finder
+後 | Ato/Go | "Latter", or "Behind"| | Party Finder
 主 | Nushi | Party Leader | | Party Finder
 クロ | Kuro | Wondrous Tails | | Party Finder
 サブジョブ | Sabujobu | Alt job | | Party Finder
@@ -126,3 +126,12 @@
 時空先行 | Jikuusenkou | Inception | | TEA
 断絶 | Danzetsu | Wormhole | | TEA
 パレキ | Pareki | Perfect Alex | | TEA
+右 | Migi | Right |  | Navigation
+左 | Hidari | Left |  | Navigation
+前 | Mae | Front |  | Navigation
+後 | Ushiro | Back |  | Navigation
+北 | Kita | North |  | Navigation
+西 | Nishi | West |  | Navigation
+南 | Minami | South |  | Navigation
+東 | Higashi | East |  | Navigation
+ |  |  |  | 
