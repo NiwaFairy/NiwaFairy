@@ -23,6 +23,8 @@
 メンテ | Mente | Maintenance | Ironically, added this during 7.0 maintenance| General Conversation
 見て | Mite | Look at | | General Conversation
 見る | Miru | Look at | | General Conversation
+自分 | Jibunn | Self | 自分のPair = Your own pair | General Conversation
+
 募集 | Boshuu | Recruit | 募集中 for "Recruiting"| Party Finder
 断章 or 欠片 | Danshou or Kakera | Book run | 欠片 is very rarely used, but just in case, I listed it.| Party Finder
 フリロ | Furiro | Free roll (FFA) loot system | | Party Finder
@@ -62,6 +64,8 @@
 制限解除 | Seigenkaijo | Unsynced | | Party Finder
 ボス基準 | Bosukijunn | Boss Relative | | Party Finder
 マップ基準 | Mappukijunn | Map Relative (True North) | | Party Finder
+式 | Shiki | Strat | As in "Strategy | Party Finder
+
 回目 | Kaime | Counter for events | Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.| In Duty
 タンク強攻撃 | Tanku kyoukougeki | Tank Buster | | In Duty
 タン強 | Tannkyou | Tank buster | Abbreviation| In Duty
@@ -78,8 +82,7 @@
 堅実魔 | Kenjitsuma | Surecast | | In Duty
 軽減 | Keigen | Mitigation | | In Duty
 頭割り | Atamawari | Stack | | In Duty
-散開 | Sankai | Spread | | In Duty
-無敵 | Muteki | Invulnerability | 
+無敵 | Muteki | Invulnerability | | In Duty
 ブラナイ | Buranai | The Blackest Night (TBN) | | In Duty
 インビンシブル | Inbinshiburu | Hallowed Ground | | In Duty
 アサイラム | Asairamu | Asylum | | In Duty
@@ -117,6 +120,25 @@
 毒 | Doku | Poison |  | In Duty 
 早 | Sou | Fast | | In Duty 
 遅 | Chi | Slow | | In Duty 
+割 | Wari | Split | | In Duty
+順 | Junn | Order | | In Duty
+輪 | Rinn | Ring | Like Lunar Dynamo | In Duty
+円 | Enn | Circle | Like Iron Chariot | In Duty
+多 | Ta | Many | | In Duty
+少 | Shou | Few | | In Duty
+秒 | Byou | Second | | In Duty
+エクサ | Ekusa | Exaflare | | In Duty
+誘電 | Yuudenn | Baited electricity | Does not mean this outside of FF | In Duty
+時 | Ji | o'clock | | In Duty
+含む | Fumu | Included | | In Duty
+剣 | Kenn | Sword | | In Duty
+雨 | Ame | Rain | | In Duty
+舞 | Mai | Dance | | In Duty
+受取 | Uketori | Pick up/Take | | In Duty
+往復 | Oufuku | Swap | To swap position and return | In Duty
+角 | Kado | Corner | | In Duty
+際 | Kiwa | Edge | Usually edge of arena | In Duty
+
 カータライズ | Ka-taraizu | Dive Bomb | | UCOB
 ツイスター | Tsuisuta- | Twister | | UCOB
 拘束具 | Kousokugu | Neurolink | | UCOB
@@ -128,6 +150,7 @@
 天地 | Tenchi | Heavensfall Trio | | UCOB
 連撃 | Rengeki | Tenstrike Trio | | UCOB
 群竜 | Gunryuu | Grand Octet | | UCOB
+
 ジェイル | Jeiru | Gaol | | UWU
 エラプション | Erapushon | Eruption | | UWU
 楔 | Kusabi | Nail | | UWU
@@ -136,6 +159,7 @@
 爆撃 | Bakugeki | Annihilation | | UWU
 乱撃 | Rangeki | Suppression | | UWU
 誘導レーザー | Yuudou re-za- | Homing Laser | | UWU
+
 ヤークト | Ya-kuto | Dolls | | TEA
 サイコロ | Saikoro | Limit Cut | This applies to all Limit Cut mechanics. Saikoro means dice in Japanese, so it's in reference to the dice-like way the numbers are presented.| TEA
 二体フェーズ | Nitai Fe-zu | BJCC Phase | | TEA
@@ -145,6 +169,7 @@
 時空先行 | Jikuusenkou | Inception | | TEA
 断絶 | Danzetsu | Wormhole | | TEA
 パレキ | Pareki | Perfect Alex | | TEA
+
 右 | Migi | Right |  | Navigation
 左 | Hidari | Left |  | Navigation
 前 | Mae | Front |  | Navigation
@@ -169,7 +194,21 @@
 踏み | Fumi | Step in |  | Navigation
 中央 | Chuuou | Middle |  | Navigation
 集合 | Shuugou | Stack |  | Navigation
+散開 | Sankai | Spread | | Navigation
+縦 | Tate | Vertical | | Navigation
+横 | Yoko | Horizontal | | Navigation
 
+青 | Ao | Blue | | Colors
+オレンジ | Orennji |  | Colors
+赤 | Aka | Red |  | Colors
+黄 | Ki | Yellow |  | Colors
+緑 | Midori | Green |  | Colors
+紫 | Murasaki | Purple |  | Colors
+金 | Kinn | Gold |  | Colors
+銀 | Ginn | Silver |  | Colors
+茶 | Cha | Brown | Also tea, the drink, but we probably won't use that in FF Party Finder | Colors
+白 | Shiro | White |  | Colors
+黒 | Kuro | Black |  | Colors
 
 基本 | Kihon | Base/Basic/Relative |  | Uncategorized (for now)
 ボス | Bosu | Boss |  | Uncategorized (for now)
@@ -186,3 +225,4 @@ X字 | Xji | X formation |  | Uncategorized (for now)
 クアドラプルネイル | Kuadoraburuneiru | Quadruple Crossing | M1S Mechanic | Uncategorized (for now)
 スプレッドネイル | Supureddoneiru | Splintering Nails | M1S Mechanic | Uncategorized (for now)
 レイニングキャッツ | Reininngukyattsu | Raining Cats | M1S Mechanic | Uncategorized (for now)
+エレクトロープ移植 | Erekutoro-puishoku | | M4S Phase Transition | Uncategorized (for now)
