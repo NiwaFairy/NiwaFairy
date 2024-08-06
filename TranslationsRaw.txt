@@ -129,7 +129,6 @@
 秒 | Byou | Second | | In Duty
 エクサ | Ekusa | Exaflare | | In Duty
 誘電 | Yuudenn | Baited electricity | Does not mean this outside of FF | In Duty
-時 | Ji | o'clock | | In Duty
 含む | Fumu | Included | | In Duty
 剣 | Kenn | Sword | | In Duty
 雨 | Ame | Rain | | In Duty
@@ -138,6 +137,7 @@
 往復 | Oufuku | Swap | To swap position and return | In Duty
 角 | Kado | Corner | | In Duty
 際 | Kiwa | Edge | Usually edge of arena | In Duty
+ビーム | Bi-mu | Beam | | In Duty
 
 カータライズ | Ka-taraizu | Dive Bomb | | UCOB
 ツイスター | Tsuisuta- | Twister | | UCOB
