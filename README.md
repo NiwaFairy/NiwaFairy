@@ -31,7 +31,6 @@
             border: 1px solid #ddd;
             border-radius: 4px;
             padding: 10px;
-            background-color: #f9f9f9;
             min-height: 100px;
             white-space: pre-wrap; /* Preserve line breaks */
         }
@@ -91,6 +90,7 @@
         <div class="tooltip" id="tooltip"></div>
 
         <!-- Glossary Section -->
+        <hr>
         <h1>FFXIV EN JP Glossary</h1>
         <p>This is a list of Japanese phrases you might see in Final Fantasy XIV and their more accurate translation. The goal is for people to fully understand Party Finder descriptions and understand the main gist of communication. Romaji is provided in order to help people write it using IME. It does not always represent reading (example: Konnichiha).</p>
         <p>IF YOU WANT A TERM ADDED, DM ME ON DISCORD (nerilingonberry) OR CREATE AN ISSUE ON GITHUB. PROVIDE AN ENGLISH AND/OR JAPANESE TERM. It doesn't matter if you don't have the translation, I'll provide it.</p>
