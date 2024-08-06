@@ -108,7 +108,7 @@
         const translations = {}; // Placeholder for translations
 
         // Fetch translations from the raw text file
-        fetch('https://raw.githubusercontent.com/NiwaFairy/MacroTranslator/main/Test2.txt')
+        fetch('https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt')
             .then(response => response.text())
             .then(text => {
                 // Parse the text file content
@@ -177,7 +177,7 @@
         });
 
         document.addEventListener('DOMContentLoaded', () => {
-            const url = 'https://raw.githubusercontent.com/NiwaFairy/MacroTranslator/main/Test2.txt';
+            const url = 'https://raw.githubusercontent.com/NiwaFairy/ffxiv/main/TranslationsRaw.txt';
 
             fetch(url)
                 .then(response => {
