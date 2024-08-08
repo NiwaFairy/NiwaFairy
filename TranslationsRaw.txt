@@ -150,6 +150,7 @@
 角 | Kado | Corner | | In Duty
 際 | Kiwa | Edge | Usually edge of arena | In Duty
 ビーム | Bi-mu | Beam | | In Duty
+方向 | Houkou | Positional(s) | | In Duty
 
 カータライズ | Ka-taraizu | Dive Bomb | | UCOB
 ツイスター | Tsuisuta- | Twister | | UCOB
