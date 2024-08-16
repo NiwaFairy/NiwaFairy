@@ -72,10 +72,11 @@
 式 | Shiki | Strat | As in "Strategy | Party Finder
 終わり | Owari | End | | Party Finder
 クリア | Kuria | Clear | | Party Finder
-手伝い | Tetsudai | Help | | 
-歓迎 | Kangei | Welcome | | 
-目指 | Meza | Aim/Goal | | 
-初 | Hatsu | First | | 
+手伝い | Tetsudai | Help | | Party Finder
+歓迎 | Kangei | Welcome | | Party Finder
+目指 | Meza | Aim/Goal | | Party Finder
+初 | Hatsu | First | | Party Finder
+滅 | Metsu | Wipe | | Party Finder
 
 
 回目 | Kaime | Counter for events | Example: １回目 is the first of something, for example a tank buster or feint. １回目無敵 is a common combination, meaning you'll use invulnerability on the 1st tank buster.| In Duty
